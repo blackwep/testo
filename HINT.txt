@@ -1,0 +1,8 @@
+$ cd /C/Users/Студент/Desktop/GitRepo/tesrep
+$ git init
+$ git add README.md
+$ git commit -m
+$ git commit -m "first com"
+$ git remote add origin https://github.com/blackwep/testo.git
+$ git branch -M main
+$ git push -u origin main
